@@ -8,7 +8,7 @@
 		<version>2.6.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>ru.musailov</groupId>
+	<groupId>ru.shapovalov</groupId>
 	<artifactId>coursework</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>coursework</name>
